@@ -1,0 +1,80 @@
+@media (min-width: 320px) and (max-width: 575.98px) {
+    #banner-slide{
+        .slider-content{
+            max-width: 90%;
+            h4{
+                font-size: 22px !important;
+                margin-bottom: 10px !important;
+            }
+            h2{
+                font-size: 30px !important;
+                margin-bottom: 0px !important;
+            }
+            h1{
+                font-size: 35px !important;
+            }
+        }
+    }
+
+    .products-tab{
+        .nav-item .nav-link {
+            font-size: 13px !important;
+            margin: 5px !important;
+            padding: 12px !important;
+        }
+    }
+
+    .banner-timer .banner-content .banner-content-bottom .banner-countdown .countdown-section {
+        padding: 16px 2px 10px 2px !important;
+    }
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .products-tab{
+        .nav-item .nav-link {
+            font-size: 13px !important;
+            margin: 5px !important;
+            padding: 12px !important;
+        }
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    #banner-slide{
+        .slider-content{
+            max-width: 90%;
+            h4{
+                font-size: 22px !important;
+                margin-bottom: 10px !important;
+            }
+            h2{
+                font-size: 30px !important;
+                margin-bottom: 0px !important;
+            }
+            h1{
+                font-size: 35px !important;
+            }
+        }
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    #banner-slide{
+        .slider-content{
+            max-width: 90%;
+            h4{
+                font-size: 22px !important;
+                margin-bottom: 10px !important;
+            }
+            h2{
+                font-size: 30px !important;
+                margin-bottom: 0px !important;
+            }
+            h1{
+                font-size: 35px !important;
+            }
+        }
+    }
+}
+// @media (min-width: 1200px) and (max-width: 1399.98px) {}
